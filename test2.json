@@ -1,4 +1,5 @@
 {
 
-    "tool":"playwright"
+    "tool":"playwright",
+    "framework":"bdd"
 }
